@@ -1,0 +1,15 @@
+{
+  "name": "jj-vue-bridge",
+  "version": "1.0.1",
+  "description": "a vue plugin to enable your vue project support communication with native iOS module.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {"name" : "junjie-lee", "email" : "comfan2012@icloud.com"},
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JasonLeee2014/jj-vue-bridge.git"
+  }
+}
